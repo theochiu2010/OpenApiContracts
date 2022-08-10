@@ -1,7 +1,7 @@
 openapi: 3.0.3
 info:
   title: Planets and Webhooks Demo API
-  version: 1.0.0
+  version: 2.0.0
   description: Simple flask-backed API showing some example API endpoints and with webhook debugging features.
   contact:
     name: Lorna Mitchell
